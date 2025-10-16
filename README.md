@@ -26,3 +26,5 @@ while **preserving the visual design** (CSS already targets ids/classes so your 
 This project uses external images from Unsplash and Picsum.
 You'll need an active internet connection for them to appear.
 If you prefer to work offline, replace the image URLs with local files in an `images/` folder.
+
+[My GitHub Repo](https://github.com/MarcFGomes/week01-homework)
